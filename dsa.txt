@@ -1,0 +1,36 @@
+DS is a logical way to store and oraganize data so that it can be used efficiently.
+
+2 types of DS :
+1. Linear DS
+        DS where data items are organised sequentially and they are attached one after 
+        another. Eg. Array, Linked List, stack, queue.
+
+        Array: Collection of data types of similar type.
+        element 35 33 45 42 10 16 28
+        index   0  1  2  3  4  5  6
+        size = 7
+
+        Stack: LIFO(last in first out) Ds where data last added(push)
+        is removed first(pop).
+
+        Queue: FIFO(first in first out) DS where data first added(enq)
+        is removed first(deq).
+        (back/rear end and front end)
+
+        Linked List: collection of nodes where each node made up of data
+        element and a reference to next node in sequence. 
+        
+        
+
+2. Non Linear DS
+        DS where data items are not organised sequentially.Here all data items 
+        can't be traversed in single run. Eg. Tree, Graph. 
+
+        Tree: A Tree is data structure that is made up of a set of linked nodes.
+        It emulates a hierarchical tree structure and form a parent child relationship.
+
+        Graph: It is collection of finite number of vertices and edges that connect the
+        vertices. Edges represents relationship among vertices that stores data elements. 
+
+
+        
